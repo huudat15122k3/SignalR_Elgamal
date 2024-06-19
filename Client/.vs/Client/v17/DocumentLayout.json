@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ElgamalTest\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D81667A-E362-41EE-BBC7-327AF9C9F694}|Client.csproj|d:\\c#\\elgamaltest\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D81667A-E362-41EE-BBC7-327AF9C9F694}|Client.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D81667A-E362-41EE-BBC7-327AF9C9F694}|Client.csproj|D:\\C#\\ElgamalTest\\Client\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D81667A-E362-41EE-BBC7-327AF9C9F694}|Client.csproj|solutionrelative:elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D81667A-E362-41EE-BBC7-327AF9C9F694}|Client.csproj|D:\\C#\\ElgamalTest\\Client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D81667A-E362-41EE-BBC7-327AF9C9F694}|Client.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Elgamal.cs",
+              "DocumentMoniker": "D:\\C#\\ElgamalTest\\Client\\Elgamal.cs",
+              "RelativeDocumentMoniker": "Elgamal.cs",
+              "ToolTip": "D:\\C#\\ElgamalTest\\Client\\Elgamal.cs",
+              "RelativeToolTip": "Elgamal.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwFoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:27:53.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\ElgamalTest\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C#\\ElgamalTest\\Client\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:26:22.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\ElgamalTest\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C#\\ElgamalTest\\Client\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:18:24.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
